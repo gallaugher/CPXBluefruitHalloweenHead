@@ -1,3 +1,8 @@
+# simple code using an Adafruit CircuitPlayground Express Bluefruit and
+# the Adafruit Bluefruit smartphone app to create an interactive
+# "Halloween head" that will talk via Bluefruit app button presses, and
+# will scream when cap touch is triggered.
+# Video of my build at:
 import board
 import neopixel
 import digitalio
