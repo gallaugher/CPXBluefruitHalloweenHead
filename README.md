@@ -19,10 +19,12 @@ https://www.adafruit.com/product/4343
 - I also connected the CPXb to the inexpensive Adafruit STEMMA speaker:
 https://www.adafruit.com/product/3885
 
-cap touch on A1 will scream "Don't take candy from strangers!". Bluefruit App control pad #1 - #3 light up CPXb and play a sound summoning the potential candy-taker.
+cap touch on A1 will scream "Don't take candy from strangers!". Bluefruit App control pad #1 - #4 + Up Arrow light up CPXb and play a sound summoning the potential candy-taker.
 Must include files:
 "hey.wav"
 "hey_you.wav"
 "take_candy.wav"
+"theres_candy_in_my_head.wav"
+"open_my_head.wav"
    and
 "ah_dont_take_candy_from_strangers.wav"
