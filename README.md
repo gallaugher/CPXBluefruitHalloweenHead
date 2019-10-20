@@ -11,7 +11,7 @@ Video demo at: http://bit.ly/cpxb-halloween-head-video
 
 
 - Connect to the CPXb using the app
-- Control Pad buttons 1-3 play a sound file
+- Control Pad buttons 1-4 + Up play a sound file
 - Touching CPXb pad A1 will scream
 In the video I attached the CPXb's A1 pad to an alligator clip, then attached the other end of the clip to a copper wire cut into the top of a $10 skull mask I picked up at a Halloween shop.
 - I also added an Adafruit MonsterM4sk - software is included in the purchase, so no additional code required for the mask.
