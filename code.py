@@ -2,7 +2,7 @@
 # Adafruit Circuit Playground Express Bluefruit
 # for more projects, see: https://bit.ly/GallaugherYouTube
 # Twitter: @gallaugher, or gallaugher.com
-# video of build at:
+# video of build at: http://bit.ly/cpxb-halloween-head-video
 import board
 import neopixel
 import digitalio
