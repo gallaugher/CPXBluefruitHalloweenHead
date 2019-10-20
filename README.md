@@ -7,7 +7,7 @@ https://www.adafruit.com/product/4333
 And the Adafruit Bluefruit App
 https://learn.adafruit.com/bluefruit-le-connect
 
-Video demo at:
+Video demo at: http://bit.ly/cpxb-halloween-head-video
 
 
 - Connect to the CPXb using the app
