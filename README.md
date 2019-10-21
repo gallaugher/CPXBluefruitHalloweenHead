@@ -1,4 +1,6 @@
 # CPXBluefruitHalloweenHead
+NOTE: I should have clarified when I first posted this. LadyAda & Jeff Epler fixed an issue that caused a crash on the 4th sound play. The fix is in a.uf2 that isn't officially released, but Lady Ada kindly linked it in the follow up reply you can find here: adafruit/circuitpython#2203. If you can download a .uf2 for circuitpython that's greater than alpha 4 then you likely won't have the crash problem, otherwise refer to the .zip provided by ladyada in the link at adafruit/circuitpython#2203. Everything works fine if you use an updated .uf2.
+
 Make a CPXb respond to touch + play sounds from the Bluefruit app
 
 Uses an Adafruit Circuit Playground Express Bluefruit (CPXb)
